@@ -1,2 +1,2 @@
-# Computer-Science-GCSE-pre-release
-Pre-release python code
+# Computer-Science-IGCSE-pre-release
+Pre-release python code, not intended for distrobution.
